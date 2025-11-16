@@ -11,3 +11,9 @@ Run fodhelper.exe
 The reason is involved in Windows settings so its in the state of autoElevate find ms-settings in the registry and run the command Because of the key you modified earlier cmd.exe is automatically executed with administrator privileges
 
 
+
+
+###### I will never take responsibility for your actions
+###### Please dont hold me accountable even if it causes damage by exploiting it
+
+
